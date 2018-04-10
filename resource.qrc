@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>files/headphone.png</file>
+        <file>files/removeusericon.png</file>
+        <file>files/modifyusericon.png</file>
+        <file>files/addusericon.png</file>
+        <file>files/removetrackicon.png</file>
+        <file>files/addtrackicon.png</file>
+    </qresource>
+</RCC>
